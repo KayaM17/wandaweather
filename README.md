@@ -23,7 +23,7 @@ Additionally, ensuring the application's responsiveness across various devices a
 
 ## Future Improvements
 
-In the future, I plan to enhance the Wanda Weather Application by adding more features such as location-based weather alerts, historical weather data, and personalized user settings. I also aim to optimize the application's performance and further improve its user interface based on user feedback.
+In the future, I plan to enhance the Wanda Weather Application by adding more features such a personalized user settings. I also aim to optimize the application's performance and further improve its user interface based on user feedback.
 
 ## Conclusion
 
