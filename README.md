@@ -1,4 +1,4 @@
-# Wandaw eather Application
+# Wanda Weather Application
 
 Welcome to the Wanda Weather Application! I'm excited to share how I built this weather application to provide users with accurate and up-to-date weather forecasts. 
 
